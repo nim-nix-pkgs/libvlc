@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-libvlc-0_1.flake = false;
+  inputs.src-libvlc-0_1.ref   = "refs/tags/0.1";
   inputs.src-libvlc-0_1.owner = "Yardanico";
-  inputs.src-libvlc-0_1.ref   = "0_1";
   inputs.src-libvlc-0_1.repo  = "nim-libvlc";
   inputs.src-libvlc-0_1.type  = "github";
   

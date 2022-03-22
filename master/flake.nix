@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-libvlc-master.flake = false;
+  inputs.src-libvlc-master.ref   = "refs/heads/master";
   inputs.src-libvlc-master.owner = "Yardanico";
-  inputs.src-libvlc-master.ref   = "master";
   inputs.src-libvlc-master.repo  = "nim-libvlc";
   inputs.src-libvlc-master.type  = "github";
   
