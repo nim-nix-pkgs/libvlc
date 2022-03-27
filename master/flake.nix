@@ -11,6 +11,7 @@
   inputs.src-libvlc-master.ref   = "refs/heads/master";
   inputs.src-libvlc-master.owner = "Yardanico";
   inputs.src-libvlc-master.repo  = "nim-libvlc";
+  inputs.src-libvlc-master.dir   = "";
   inputs.src-libvlc-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";

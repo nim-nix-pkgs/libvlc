@@ -11,6 +11,7 @@
   inputs.src-libvlc-0_1.ref   = "refs/tags/0.1";
   inputs.src-libvlc-0_1.owner = "Yardanico";
   inputs.src-libvlc-0_1.repo  = "nim-libvlc";
+  inputs.src-libvlc-0_1.dir   = "";
   inputs.src-libvlc-0_1.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
