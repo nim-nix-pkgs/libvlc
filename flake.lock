@@ -340,11 +340,11 @@
       },
       "locked": {
         "dir": "0_1",
-        "lastModified": 1669417905,
-        "narHash": "sha256-Xvh9NeHrVuRiDTWxqr9SlqF4TZVanH91dMyJ6Tajd5g=",
+        "lastModified": 1669432915,
+        "narHash": "sha256-ZXW3TXLUG5TlJp7s9Og/ZNuSAdxyJ9Mp0lQDJJJtg4I=",
         "owner": "nim-nix-pkgs",
         "repo": "libvlc",
-        "rev": "720bbab4ecad5bbc9f6e4ef92f2b0af35c3b176e",
+        "rev": "f35b88425a29d8b313146514b0b600039bea1816",
         "type": "github"
       },
       "original": {
@@ -368,11 +368,11 @@
       },
       "locked": {
         "dir": "0_2",
-        "lastModified": 1669417905,
-        "narHash": "sha256-Xvh9NeHrVuRiDTWxqr9SlqF4TZVanH91dMyJ6Tajd5g=",
+        "lastModified": 1669432915,
+        "narHash": "sha256-ZXW3TXLUG5TlJp7s9Og/ZNuSAdxyJ9Mp0lQDJJJtg4I=",
         "owner": "nim-nix-pkgs",
         "repo": "libvlc",
-        "rev": "720bbab4ecad5bbc9f6e4ef92f2b0af35c3b176e",
+        "rev": "f35b88425a29d8b313146514b0b600039bea1816",
         "type": "github"
       },
       "original": {
@@ -396,11 +396,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1669417905,
-        "narHash": "sha256-Xvh9NeHrVuRiDTWxqr9SlqF4TZVanH91dMyJ6Tajd5g=",
+        "lastModified": 1669432915,
+        "narHash": "sha256-ZXW3TXLUG5TlJp7s9Og/ZNuSAdxyJ9Mp0lQDJJJtg4I=",
         "owner": "nim-nix-pkgs",
         "repo": "libvlc",
-        "rev": "720bbab4ecad5bbc9f6e4ef92f2b0af35c3b176e",
+        "rev": "f35b88425a29d8b313146514b0b600039bea1816",
         "type": "github"
       },
       "original": {
